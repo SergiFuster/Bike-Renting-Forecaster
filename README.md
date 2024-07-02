@@ -9,4 +9,4 @@ For the forecasting purpose a model based on XGBoost Regressor joined with a cro
 Despite the very poor and inconsistent quality of the data, the results obtained are quite good, reaching prices of up to 65%. As you can see
 on the graphic below, the model is capable to predict the trend of the demand quite accurately.
 
-![Plot]([https://github.com/tu_usuario/tu_repositorio/blob/main/imagen.png](https://github.com/SergiFuster/Bike-Renting-Forecaster/blob/main/plot.png))
+![Plot](https://github.com/SergiFuster/Bike-Renting-Forecaster/blob/main/plot.png)
